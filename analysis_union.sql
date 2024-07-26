@@ -1,6 +1,7 @@
 /* 
 Cyclistic Case Study: 12-Month Data Exploration, 2023_Q3 - 2024_Q2
 Union Function
+Google BigQuery 
 */
 
 -- Create 2023 Q3&Q4 Table
