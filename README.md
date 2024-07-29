@@ -9,7 +9,7 @@ Cyclistic is a bike-share company based in Chicago with two key customer segment
 The marketing analytics team wants to understand **how casual riders and annual members use Cyclistic bikes differently.** From these insights, the team will design a new marketing strategy to convert casual riders into annual members.
 
 ## Metrics 
-- **Member Type:** Casual Rider or Annual Member
+- **Customer Type:** Casual Rider or Annual Member
 - **Sales:** Total Bike Rides rented from both casual riders and annual members
 - **Ride Length:** Average Length of Ride in minutes
 
@@ -21,7 +21,15 @@ The marketing analytics team wants to understand **how casual riders and annual 
   
 ## Summary of Findings
 ### Seasonality: 
-- Starting in July 2023, sales were at an all-time high peaking at 771,693 total rides in August 2023. Heading into Fall 2023 and Winter 2024, sales dropped significantly 
+- Starting in July 2023, sales were at an all-time high peaking at 771,693 total rides in August 2023. Heading into Fall 2023 and Winter 2024, sales dropped significantly with a low of 144,854 rides in January 2024 (~81% dip in total sales).
+- On average, casual riders bike 14 minutes longer than annual members, and the durations trend up and down in relation to season. Annual members remain consistent at just under 13 minutes of average ride time throughout the year. 
+- Warmers seasons indicate an increase in demand for both customer types - investigate to confirm key months leading into Spring & Summer to launch ad campaigns and promotions.
+
+### Day of Week: 
+- Annual members have higher sales mid-week (Monday - Friday), while casual riders peak on weekends (Saturday & Sunday), suggesting different use cases for both customer types throughout the week (commuting vs leisure).
+
+### Time of Day: 
+- 
 
 
 
