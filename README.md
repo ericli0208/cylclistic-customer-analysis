@@ -37,7 +37,7 @@ The marketing analytics team wants to understand **how casual riders and annual 
 - While average ride lengths are relatively equal for both customer segments in electric bikes, casual riders rent classic bikes for more than twice the length of time that annual members do.
 
 ## Recommendations / Next Steps
-- Additional analysis is required to highlight the different use cases for bike rentals between annual members and casual riders. 
+- Additional analysis is required to highlight the different use cases for bike rentals between annual members and casual riders under different. Create a marketing plan targeted to encouraging 
 
 
 
