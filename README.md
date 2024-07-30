@@ -37,7 +37,8 @@ The marketing analytics team wants to understand **how casual riders and annual 
 - While average ride lengths are relatively equal for both customer segments in electric bikes, casual riders rent classic bikes for more than twice the length of time that annual members do.
 
 ## Recommendations / Next Steps
-- Additional analysis is required to highlight the different use cases for bike rentals between annual members and casual riders under different. Create a marketing plan targeted to encouraging 
-
-
-
+- Additional analysis is required to highlight the different use cases for bike rentals between annual members and casual riders and how they relate to all dimensions of analysis. From these insights, create a marketing plan targeted to encouraging more consistent, lower-duration rides that annual members engage in to drive overall conversion.
+- Investigate the reason for significant dips in fall and winter months and expand the analysis to include additional years to determine consistency. Are there factors related to ease-of-use (i.e. location) that could potentially constrain these dips?
+- An increase in demand by casual riders in warmer seasons presents an opportunity for launching an advertising and promotional campaign starting early spring through summer, with engaging media on the benefits of becoming an annual members, and discounts for membership plans.
+- Utilize high weekend activity of casual riders to create personalized membership packages that include partnerships with tourist and entertainment attractions (i.e. museum passes, discounts to reach local stadiums and nightclubs, etc).
+- Target awareness for casual rider usage in the mornings and early afternoons, promoting exercise and commute convenience as benefits of using Cyclistic. 
