@@ -26,10 +26,18 @@ The marketing analytics team wants to understand **how casual riders and annual 
 - Warmers seasons indicate an increase in demand for both customer types - investigate to confirm key months leading into Spring & Summer to launch ad campaigns and promotions.
 
 ### Day of Week: 
-- Annual members have higher sales mid-week (Monday - Friday), while casual riders peak on weekends (Saturday & Sunday), suggesting different use cases for both customer types throughout the week (commuting vs leisure).
+- Annual members have higher sales mid-week (Monday - Friday), while casual riders peak on weekends (Saturday & Sunday), suggesting different use cases for both customer types throughout the week (commuting, convenience, leisure, exercise).
 
 ### Time of Day: 
-- 
+- Annual member sales peak at two different points in a single day - once at 8:00 AM and again at 5:00 PM. In contrast, casual riders only increase their volume towards late afternoon / evening.
+- There is a possible opportunity to launch several informative ad campaigns targeted to increasing awareness in casual riders on the benefits of using Cyclistic for their morning commutes.
+
+### Bike Type:
+- Based on total sales, casual riders prefer electric bikes slightly more, whereas annual members prefer classic bikes. 
+- While average ride lengths are relatively equal for both customer segments in electric bikes, casual riders rent classic bikes for more than twice the length of time that annual members do.
+
+## Recommendations / Next Steps
+- Additional analysis is required to highlight the different use cases for bike rentals between annual members and casual riders. 
 
 
 
